@@ -1,4 +1,4 @@
-# Ex No: 08 - Design and Simulation of a Booth Multiplier Using Verilog and Cadence nclaunch
+## Ex No: 08 - Design and Simulation of a Booth Multiplier Using Verilog and Cadence nclaunch
 
 ## Aim
 To design and simulate a **Booth Multiplier** using **Verilog HDL** and verify its functionality in **Cadence nclaunch**.
@@ -31,7 +31,8 @@ Booth’s multiplication algorithm is an efficient way to perform **signed integ
 
 ## Flow Chart
 
-![image](https://github.com/user-attachments/assets/a34dd25e-3043-4243-81a5-567165d3f4b2)
+![428122013-a34dd25e-3043-4243-81a5-567165d3f4b2](https://github.com/user-attachments/assets/b703ec60-7962-4070-9928-e50c9933b1e0)
+
 
 
 ## Verilog Code for Booth Multiplier
@@ -161,15 +162,17 @@ endmodule
 ```
 ## Truth Table for Booth Multiplier (Example)
 
-![image](https://github.com/user-attachments/assets/742744b0-15e9-4c7c-8e0e-13a77f25673e)
+![428121360-742744b0-15e9-4c7c-8e0e-13a77f25673e](https://github.com/user-attachments/assets/1e34ee7f-5ca2-4ec4-8a3a-ccca9dbf932c)
+
 
 ## Nclaunch Work Library Window
+![447216908-ad191839-722c-4387-8908-957610868712](https://github.com/user-attachments/assets/096293e1-591f-46ad-9b26-8aed819b8013)
 
-![Screenshot 2025-05-21 163301](https://github.com/user-attachments/assets/4dc3ff0b-9533-4acd-98d2-e24df31eb513)
 
 ## Simulation Results
 
-![Screenshot 2025-05-21 163243](https://github.com/user-attachments/assets/e7e22fcd-2e89-478a-9ccf-321bf9d6a07c)
+![447216890-3ffff280-3391-4686-acd3-baa2765a7cfc (1)](https://github.com/user-attachments/assets/abcd212b-509d-43e1-8f0f-326381d0adf6)
+
 
 
 ## Results
